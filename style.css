@@ -1,0 +1,13 @@
+.element{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+.element:hover{
+    width: 200px;
+    height: 200px;
+    background-color: black ;
+    animation:  5s infinite;
+}
